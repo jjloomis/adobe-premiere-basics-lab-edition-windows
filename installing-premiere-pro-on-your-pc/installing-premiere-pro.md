@@ -6,5 +6,5 @@
 2. Go to the [Adobe Student Discount page](https://www.adobe.com/creativecloud/buy/students.html) and create an Adobe account using a non-UWM email address. **Note**: Even though you're signing up for a student discount account, you should use a non-UWM email address \(see above.\)
 3. Install the Adobe Creative Cloud app on your computer. Use the app to install Adobe CC programs. 
 
-![](../.gitbook/assets/installing-premiere-pro-pc.png)
+![](https://github.com/jjloomis/adobe-premiere-basics-lab-edition-windows/tree/cdfcd2930325d94eaddcf5336e4ca5a690e7e2a9/.gitbook/assets/installing-premiere-pro-pc.png)
 

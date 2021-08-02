@@ -27,5 +27,5 @@ When you activate the Toggle Proxies button, the Timeline will reference your pr
 2. Click and drag the Toggle Proxies button into the Program pane's toolbar \(bottom of Program pane.\) Click OK when finished. The Toggle Proxies button will appear in the Program pane's toolbar. Note: You will need to do this every time you use a new computer. 
 3. Click the Toggle Proxies button. The Toggle Proxies button will appear blue. Your project's Timeline is now referencing the proxy files in your project folder. 
 
-![](../.gitbook/assets/adding-toggle-proxies-button.png)
+![](https://github.com/jjloomis/adobe-premiere-basics-lab-edition-windows/tree/cdfcd2930325d94eaddcf5336e4ca5a690e7e2a9/.gitbook/assets/adding-toggle-proxies-button.png)
 

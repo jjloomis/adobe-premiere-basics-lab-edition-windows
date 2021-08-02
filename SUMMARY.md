@@ -4,7 +4,7 @@
 
 ## Introduction
 
-* [Introduction](introduction/readme.md)
+* [Introduction](introduction/introduction.md)
 
 ## Installing Premiere Pro on your PC
 

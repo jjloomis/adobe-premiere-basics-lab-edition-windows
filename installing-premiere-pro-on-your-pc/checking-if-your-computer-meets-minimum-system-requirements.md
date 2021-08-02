@@ -8,5 +8,5 @@
 6. Click **This PC** \(on left.\)
 7. The amount of space available will be visible under the **C:** drive.
 
-![](../.gitbook/assets/pc-specs.png)
+![](https://github.com/jjloomis/adobe-premiere-basics-lab-edition-windows/tree/cdfcd2930325d94eaddcf5336e4ca5a690e7e2a9/.gitbook/assets/pc-specs.png)
 

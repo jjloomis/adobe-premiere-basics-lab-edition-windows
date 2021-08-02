@@ -8,7 +8,7 @@ Adobe Premiere Pro 2020 Basics \| Home Edition \(Windows\) for [Journalism, Adve
 
 ### Credits
 
-Written by Jeffrey John Loomis
+Written by Jeffrey John Loomis TEST
 
 ### Other formats
 

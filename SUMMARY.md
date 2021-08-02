@@ -6,14 +6,11 @@
 
 * [Introduction](introduction/introduction.md)
 
-## Installing Premiere Pro on your PC
-
-* [Checking if your computer meets minimum system requirements](installing-premiere-pro-on-your-pc/checking-if-your-computer-meets-minimum-system-requirements.md)
-* [Installing Premiere Pro](installing-premiere-pro-on-your-pc/installing-premiere-pro.md)
-
 ## Setting up your project
 
+* [Connecting your project folder SD card](setting-up-your-project/connecting-your-project-folder-sd-card.md)
 * [Creating a project folder](setting-up-your-project/creating-a-project-folder.md)
+* [Backing up your project folder](setting-up-your-project/backing-up-your-project-folder.md)
 * [Copying media files from a Canon video camera into your project folder](setting-up-your-project/adding-media-from-a-video-camera.md)
 * [Copying media files from an iPad&\#47; iPhone into your project folder](setting-up-your-project/adding-media-from-an-ios-device.md)
 * [Copying media files from a video camera SD card into your project folder](setting-up-your-project/copying-media-files-from-an-sd-card-into-your-project-folder.md)

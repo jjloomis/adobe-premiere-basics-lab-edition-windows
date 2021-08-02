@@ -1,6 +1,6 @@
 # Introduction
 
-## Adobe Premiere Pro 2020 Basics \| Home Edition \(Windows\)
+## Adobe Premiere Pro 2020 Basics \| Lab Edition \(Windows\)
 
 ## About
 

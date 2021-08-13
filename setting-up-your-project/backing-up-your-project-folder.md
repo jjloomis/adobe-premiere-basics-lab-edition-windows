@@ -12,7 +12,7 @@ Be sure to backup your project folder on a regular basis. If anything happens to
 
 ### Backing up your project folder
 
-1. Connect to your class folder if you haven't done so already \(see above.\)
+1. If you haven't done so already, connect to your class folder \(see above.\)
 2. If need be, **right-click** the **Start** button \(bottom left\) and select **File Explorer** to open a **File Explorer** window.
 3. In the **File Explorer** window, select **This PC** \(on left.\) Double-click the **JAMS drive** \(probably the **Z** drive\) and navigate into your **class folder**. 
 4. In you **class folder,** create a new folder using today's date as its name using this format: 8-8-2021. **Note**: Do not use slashes in the folder name.

@@ -38,7 +38,6 @@
 * [Building a story in your sequence](editing-in-the-timeline-panel/building-a-story-in-your-sequence.md)
 * [Viewing your project in the Program monitor](editing-in-the-timeline-panel/viewing-your-project-in-the-program-monitor.md)
 * [Adding a clip to your sequence](editing-in-the-timeline-panel/adding-clips-to-the-timeline.md)
-* [Adding a subclip to your sequence](editing-in-the-timeline-panel/adding-a-subclip-to-your-sequence.md)
 * [Adding an image to your sequence](editing-in-the-timeline-panel/adding-an-image-to-your-sequence.md)
 * [Adding an audio file to your sequence](editing-in-the-timeline-panel/adding-an-audio-file-to-your-sequence.md)
 * [Arranging items in your sequence](editing-in-the-timeline-panel/arranging-clips-in-your-sequence.md)

@@ -11,7 +11,7 @@
 ## Importing the Media Milwaukee End Screen
 
 1. Go to **File** on the menu bar and select **Import**.
-2. Navigate to your project folder and the select the Media-Milwaukee-End-Screen.png.
+2. [Navigate to your project folder](https://app.gitbook.com/@techresources/s/file-and-folder-management-windows/navigating-folder-tree) and the select the Media-Milwaukee-End-Screen.png.
 3. Click **Import**. 
 
 ## Adding the Media Milwaukee End Screen to your sequence

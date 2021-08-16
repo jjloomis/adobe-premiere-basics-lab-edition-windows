@@ -4,8 +4,8 @@
 2. In Premiere, click **File** on the menu bar. Choose **New** and select **Project**.
 3. In the **New Project** dialog box, click the **Browse** button. A window will appear.
 4. Navigate to your project folder. Click **Choose**.
-5. In the **New Project** dialog box, give your project a name. Follow File and Folder Naming Conventions.
+5. In the **New Project** dialog box, give your project a name. [Follow JAMS file and folder naming conventions](https://techresources.gitbook.io/file-and-folder-management-windows/file-and-folder-naming-conventions).
 6. When finished, click **OK**.
 
-Note: By default, Scratch Discs are set to reside in the same location as your PRPROJ file. Scratch Disc locations should not be changed.
+**Note**: By default, Scratch Discs are set to reside in the same location as your PRPROJ file. Scratch Disc locations should not be changed.
 

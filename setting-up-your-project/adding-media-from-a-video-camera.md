@@ -12,5 +12,5 @@ Before importing media files into Premiere, you'll need copy these files into yo
 8. [Navigate to your project folder](https://jjloomis.gitbooks.io/file-and-folder-management/content/navigating-folder-tree.html) on your **project folder SD card**. Paste **AVCHD** in your project folder.
 9. After **AVCHD** has copied into your project folder, eject the video camera. 
 10. Disconnect the camera from your PC.
-11. In your project folder, rename **AVCHD**. Follow File and Folder Naming Conventions. \(Do not delete, rename or move any files or folders inside this directory.\)
+11. In your project folder, rename **AVCHD**. Follow [JAMS file and folder naming conventions](https://techresources.gitbook.io/file-and-folder-management-windows/file-and-folder-naming-conventions). \(Do not delete, rename or move any files or folders inside this directory.\)
 

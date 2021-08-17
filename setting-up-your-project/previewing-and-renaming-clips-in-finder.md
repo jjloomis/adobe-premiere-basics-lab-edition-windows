@@ -6,6 +6,6 @@
      * Go into your renamed AVCHD folder \(see [Copying media files from a Canon video camera](adding-media-from-a-video-camera.md) if you haven't renamed this folder.\)
      * In your renamed AVCHD folder, you'll see two folders \(BDMV and Canon.\) Right-click the BDMV folder. In the fly-out menu, select **Show Package Contents**.
      * In the BDMV folder, you'll see several folders. Double-click **STREAM**. The files \(00000.MTS, etc.\) in this folder are your media files.
-3. To preview a media file using Finder, single-click the file to select it. Then press the spacebar \(on keyboard\) to play it using the Windows Media Player.
-4. After previewing the media file, close Windows Media Player. Then rename the media file following [JAMS file and folder naming conventions](https://techresources.gitbook.io/file-and-folder-management-windows/file-and-folder-naming-conventions). Repeat this process as necessary.
+3. To preview a media file using VLC, right-click the file and select **Play** in the fly-out menu.
+4. After previewing the media file, close VLC. Then rename the media file following [JAMS file and folder naming conventions](https://techresources.gitbook.io/file-and-folder-management-windows/file-and-folder-naming-conventions). Repeat this process as necessary.
 

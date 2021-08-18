@@ -20,3 +20,5 @@ Be sure to backup your project folder on a regular basis. If anything happens to
 6. In the second **File Explorer** window, select your **project folder SD card** \(on left.\) Your **project folder SD card** will be named **JAMS** followed by a number. 
 7. Click and drag your project folder from your **project folder SD** **card** into the folder you created in Step 3. **Important**: Make sure you click and drag the project from your **project folder SD card** into the folder you created in Step 3 \(not the other way around.\)
 
+![Project folder being copied to class folder.](../.gitbook/assets/backing-up-project-folder.png)
+

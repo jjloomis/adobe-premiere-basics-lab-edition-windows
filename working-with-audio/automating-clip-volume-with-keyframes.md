@@ -12,5 +12,5 @@ To automate the volume of an audio track, you can use the **Pen** tool to add **
 6. To delete a keyframe, select it using the **Pen** tool \(the keyframe will appear blue.\) Press **Delete** \(on keyboard.\)
 7. When finished, switch back to the **Selection** tool in the **Tools** panel.
 
-![](https://github.com/jjloomis/adobe-premiere-basics-lab-edition-windows/tree/cdfcd2930325d94eaddcf5336e4ca5a690e7e2a9/.gitbook/assets/audio-automation.png)
+![Automating clip volume with keyframes.](../.gitbook/assets/adjusting-audio-keyframes.png)
 

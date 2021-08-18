@@ -10,5 +10,5 @@
 * JAMS-News-Reporting.mogrt
 * JAMS-White-Text-Black-Background.mogrt
 
-![](https://github.com/jjloomis/adobe-premiere-basics-lab-edition-windows/tree/cdfcd2930325d94eaddcf5336e4ca5a690e7e2a9/.gitbook/assets/mogrt-file-import.png)
+![Installing a Motion Graphics template.](../.gitbook/assets/importing-mogrt-files.png)
 

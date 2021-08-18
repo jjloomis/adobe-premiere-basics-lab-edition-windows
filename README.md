@@ -4,7 +4,7 @@
 
 ## About
 
-Adobe Premiere Pro 2020 Basics \| Home Edition \(Windows\) for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
+Adobe Premiere Pro 2020 Basics \| Lab Edition \(Windows\) for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
 
 ### Credits
 

@@ -9,3 +9,5 @@
 3. To preview a media file using VLC, right-click the file and select **Play** in the fly-out menu.
 4. After previewing the media file, close VLC. Then rename the media file following [JAMS file and folder naming conventions](https://techresources.gitbook.io/file-and-folder-management-windows/file-and-folder-naming-conventions). Repeat this process as necessary.
 
+![Renamed MTS files.](../.gitbook/assets/renaming-mts-files.png)
+

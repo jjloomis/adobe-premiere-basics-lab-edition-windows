@@ -6,3 +6,5 @@
 
 **Note**: By default, an item will snap to the item closest to it. To turn snapping on or off, click the **Snap** tool or press **S** \(on keyboard\).
 
+![Items in a sequence.](../.gitbook/assets/items-in-timeline.png)
+

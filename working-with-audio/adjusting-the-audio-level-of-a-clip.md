@@ -6,5 +6,5 @@
 4. To adjust the audio level of the selected clip, click and drag the track’s **fader** in the **Audio Clip Mixer**. \(**Note**: audio levels should generally be between -12 and -6 db.\)
 5. To exit the **Audio Clip Mixer**, go to **Window** on the menu bar. Choose **Source Monitor** and select your clip from the fly-out menu.
 
-![](https://github.com/jjloomis/adobe-premiere-basics-lab-edition-windows/tree/cdfcd2930325d94eaddcf5336e4ca5a690e7e2a9/.gitbook/assets/audio-clip-mixer.png)
+![Adjusting audio with Audio Clip Mixer.](../.gitbook/assets/audio-clip-mixer.png)
 

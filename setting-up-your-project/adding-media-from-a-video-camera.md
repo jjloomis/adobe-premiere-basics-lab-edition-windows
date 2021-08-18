@@ -14,3 +14,5 @@ Before importing media files into Premiere, you'll need copy these files into yo
 10. Disconnect the camera from your PC.
 11. In your project folder, rename **AVCHD**. Follow [JAMS file and folder naming conventions](https://techresources.gitbook.io/file-and-folder-management-windows/file-and-folder-naming-conventions). \(Do not delete, rename or move any files or folders inside this directory.\)
 
+![Copying media files from Canon video camera to project folder.](../.gitbook/assets/copying-media-files-canon-camera.png)
+

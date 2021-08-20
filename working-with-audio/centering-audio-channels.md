@@ -7,5 +7,5 @@
 
 ![Handheld mic, lavalier mic, or mult box clip settings.](../.gitbook/assets/centering-audio-left.png)
 
-![](../.gitbook/assets/centering-audio-right.png)
+![Shotgun mic setting.](../.gitbook/assets/centering-audio-right.png)
 

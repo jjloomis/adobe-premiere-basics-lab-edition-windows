@@ -7,5 +7,5 @@
 5. In the **Name** field, give the still image a name. 
 6. When finished, click **OK**. Your still image will be JPEG in your project folder.
 
-![](https://github.com/jjloomis/adobe-premiere-basics-lab-edition-windows/tree/cdfcd2930325d94eaddcf5336e4ca5a690e7e2a9/.gitbook/assets/exporting-a-still-image-from-your-sequence.png)
+![Exporting a still image from the Program monitor.](../.gitbook/assets/exporting-a-still-image.png)
 

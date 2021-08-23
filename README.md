@@ -1,6 +1,6 @@
 # Introduction
 
-## Adobe Premiere Pro 2021 Basics \| Lab Edition \(Windows\)
+## Adobe Premiere Pro 2021 Basics \| PC Edition
 
 ## About
 

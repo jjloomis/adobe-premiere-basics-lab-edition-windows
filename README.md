@@ -10,13 +10,9 @@ Adobe Premiere Pro 2021 Basics \| Windows Edition for [Journalism, Advertising, 
 
 Written by Jeffrey John Loomis
 
-### Other formats
-
-PDF, MOBI, and EPUB versions of this GitBook are availble for download [here](https://www.gitbook.com/book/jjloomis/adobe-premiere-basic-video-editing/details).
-
 ### GitHub
 
-To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/adobe-premiere-basic-video-editing).
+To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository.](https://github.com/jjloomis/adobe-premiere-basics-lab-edition-windows)
 
 ### License
 

@@ -9,12 +9,13 @@ Be sure to backup your project folder on a regular basis. If anything happens to
 3. Click the **Computer** tab \(top of window.\) In the drop-down menu, select **Map network drive**. 
 4. Leave the default **Drive** letter selected. In the **Folder** field, copy and paste the following string \(be sure to copy the full string\):   `\\ad.uwm.edu\shares\_U_LS\Courses\JAMS` 
 5. Click **Finish**. Your class folder will appear in the **This PC** area as a connected drive \(probably the **Z** drive.\) 
+6. If necessary, [navigate](https://app.gitbook.com/@techresources/s/file-and-folder-management-windows-edition/navigating-folder-tree) to your class folder.
 
 ### Backing up your project folder
 
 1. If you haven't done so already, connect to your class folder \(see above.\)
 2. If need be, **right-click** the **Start** button \(bottom left\) and select **File Explorer** to open a **File Explorer** window.
-3. In the **File Explorer** window, select **This PC** \(on left.\) Double-click the **JAMS drive** \(probably the **Z** drive\) and navigate into your **class folder**. 
+3. In the **File Explorer** window, select **This PC** \(on left.\) Double-click the **JAMS drive** \(probably the **Z** drive\) and [navigate](https://app.gitbook.com/@techresources/s/file-and-folder-management-windows-edition/navigating-folder-tree) into your **class folder**. 
 4. In you **class folder,** create a new folder using today's date as its name using this format: 8-8-2021. **Note**: Do not use slashes in the folder name.
 5. To open a second **File Explorer** window, **right-click** the **Start** button \(bottom left\) and select **File Explorer** \(or press **Windows E** on keyboard.\)
 6. In the second **File Explorer** window, select your **project folder SD card** \(on left.\) Your **project folder SD card** will be named **JAMS** followed by a number. 

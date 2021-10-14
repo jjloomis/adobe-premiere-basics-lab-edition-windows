@@ -7,5 +7,4 @@
 5. In the **Name** field, give the still image a name. 
 6. When finished, click **OK**. Your still image will be JPEG in your project folder.
 
-![Exporting a still image from the Program monitor.](../.gitbook/assets/exporting-a-still-image.png)
-
+![Exporting a still image from the Program monitor.](../.gitbook/assets/exporting-a-still-image.PNG)

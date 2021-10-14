@@ -4,5 +4,4 @@
 2. In your **sequence**, position the **playhead** over the **clips** you'd like to view. 
 3. Press the **spacebar** on your **keyboard**. Your edited project will play in the **Program** monitor. 
 
-![Viewing the project in the Program monitor.](../.gitbook/assets/program-monitor.png)
-
+![Viewing the project in the Program monitor.](../.gitbook/assets/program-monitor.PNG)

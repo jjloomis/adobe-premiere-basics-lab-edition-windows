@@ -9,4 +9,3 @@
 
 * JAMS-News-Reporting.mogrt
 * JAMS-Black-Text-Black-Background
-

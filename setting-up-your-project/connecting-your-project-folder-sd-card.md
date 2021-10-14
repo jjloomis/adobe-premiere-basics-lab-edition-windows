@@ -6,4 +6,3 @@ Your Premiere project and all of the media files associated with it will live in
 * When finished, save your project and eject the SD card. Be sure to take the SD card with you when you leave the lab. 
 
 ![Project folder SD card and SD card reader.](../.gitbook/assets/project-folder-sd-card.jpeg)
-

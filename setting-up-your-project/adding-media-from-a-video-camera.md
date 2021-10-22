@@ -10,8 +10,9 @@ Before importing media files into Premiere, you'll need copy these files into yo
 6. On your PC, navigate to **This PC**. A **Canon** icon should appear under **Devices and drives**. Double-click the **Canon** icon.
 7. In **Canon,** select **and **copy **AVCHD**.
 8. [Navigate to your project folder](https://jjloomis.gitbooks.io/file-and-folder-management/content/navigating-folder-tree.html) on your **project folder SD card**. Paste **AVCHD** in your project folder.
-9. After **AVCHD** has copied into your project folder, eject the video camera. 
+9. After **AVCHD** has copied into your project folder, eject the video camera.&#x20;
 10. Disconnect the camera from your PC.
-11. In your project folder, rename **AVCHD**. Follow [JAMS file and folder naming conventions](https://techresources.gitbook.io/file-and-folder-management-windows/file-and-folder-naming-conventions). (Do not delete, rename or move any files or folders inside this directory.)
+11. In your project folder, rename **AVCHD**. Follow [JAMS file and folder naming conventions](https://techresources.gitbook.io/file-and-folder-management-windows/file-and-folder-naming-conventions).&#x20;
+12. [Rename your MTS files](previewing-and-renaming-clips-in-finder.md).
 
 ![Copying media files from Canon video camera to project folder.](../.gitbook/assets/copying-media-files-canon-camera.PNG)

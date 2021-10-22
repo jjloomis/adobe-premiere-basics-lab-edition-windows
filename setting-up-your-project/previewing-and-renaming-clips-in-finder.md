@@ -1,6 +1,6 @@
 # Previewing and renaming clips
 
-1. If you haven't already done so, copy the media files on your device (camera, iPhone, Zoom, etc.) into your project folder.&#x20;
+1. If you haven't already done so, copy the media files on your device (Canon video camera, iPhone, Zoom H2n, etc.) into your project folder.&#x20;
 2. Disconnect the device and [navigate](https://app.gitbook.com/@techresources/s/file-and-folder-management-windows/navigating-folder-tree) to the media files in your project folder. **Note**: To navigate to media files from a Canon video camera, you'll need to do the following:
    * Double-click your renamed **AVCHD** folder (see [Copying media files from a Canon video camera](adding-media-from-a-video-camera.md) if you haven't renamed this folder.)
    * In your renamed **AVCHD** folder, you'll see two folders (**BDMV** and **Canon**.) Double-click the **BDMV** folder.

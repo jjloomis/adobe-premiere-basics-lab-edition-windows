@@ -17,7 +17,7 @@ Before importing media files into Premiere, you'll need copy these files into yo
 11. In your project folder, rename **AVCHD**. Follow [JAMS file and folder naming conventions](https://techresources.gitbook.io/file-and-folder-management-windows/file-and-folder-naming-conventions).&#x20;
 12. [Rename your MTS files](previewing-and-renaming-clips-in-finder.md).
 
-### Canon Vixia XA11
+### Canon Vixia XA11, XA15, XA30
 
 1. [Connect your project folder SD card](connecting-your-project-folder-sd-card.md) to the PC.
 2. Connect the video camera to your PC using the USB cable. (The USB miniport on the camera is under the front flap.) **Note**: Do not remove the SD card from the camera.

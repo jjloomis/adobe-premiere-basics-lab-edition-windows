@@ -4,7 +4,7 @@
 
 ## About
 
-Adobe Premiere Pro 2023 Basics | Windows Edition for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/). New test 8/15/23.
+Adobe Premiere Pro 2023 Basics | Windows Edition for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).&#x20;
 
 ### Credits
 

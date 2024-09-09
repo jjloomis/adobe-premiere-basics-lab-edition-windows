@@ -7,7 +7,7 @@ Be sure to backup your project folder on a regular basis. If anything happens to
 ### **Connecting to your class folder**
 
 1. **Note**: Do not connect to your class folder until you are done working for the day. Always back up your project folder before leaving the lab.
-2. **Right-click** the **Start** button (bottom left) and select **File Explorer**.&#x20;
+2. When you are done working for the day, **right-click** the **Start** button (bottom left) and select **File Explorer**.&#x20;
 3. In the **File Explorer** window, click **This PC** (on left.)&#x20;
 4. Click the **Computer** tab (top of window.) In the drop-down menu, select **Map network drive**.&#x20;
 5. Leave the default **Drive** letter selected. In the **Folder** field, copy and paste the following string (be sure to copy the full string): \

@@ -1,10 +1,10 @@
 # Introduction
 
-## Adobe Premiere Pro 2023 Basics | Windows Edition
+## Adobe Premiere Pro 2024 Basics | Windows Edition
 
 ## About
 
-Adobe Premiere Pro 2023 Basics | Windows Edition for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).&#x20;
+Adobe Premiere Pro 2024 Basics | Windows Edition for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).&#x20;
 
 ### Credits
 

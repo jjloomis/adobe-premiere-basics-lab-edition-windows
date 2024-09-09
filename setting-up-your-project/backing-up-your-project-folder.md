@@ -2,6 +2,8 @@
 
 Be sure to backup your project folder on a regular basis. If anything happens to your project folder SD card, you'll have a backup version in your class folder.&#x20;
 
+<figure><img src="../.gitbook/assets/stop-read-step-1.gif" alt=""><figcaption></figcaption></figure>
+
 ### **Connecting to your class folder**
 
 1. **Note**: Do not connect to your class folder until you are done working for the day. Always back up your project folder before leaving the lab.

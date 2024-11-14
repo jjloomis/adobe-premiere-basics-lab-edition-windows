@@ -2,7 +2,7 @@
 
 Be sure to backup your project folder on a regular basis. If anything happens to your project folder SD card, you'll have a backup version in your class folder.&#x20;
 
-<figure><img src="../.gitbook/assets/stop-read-step-1.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/back-up-project-gif.gif" alt=""><figcaption></figcaption></figure>
 
 ### **Connecting to your class folder**
 

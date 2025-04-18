@@ -4,8 +4,6 @@ Before editing the audio you captured with your **Zoom** recorder, you'll copy t
 
 **Note**: Never import **WAV** files into **Premiere** directly from a **Zoom** recorder. Copy the **WAV** files into your [**project folder**](creating-a-project-folder.md). Then [import](../importing-and-logging-clips/importing-media-files.md) the **WAV** files into **Premiere** from your [**project folder**](creating-a-project-folder.md)**.**
 
-### Zoom H2n <a href="#zoom-h2n" id="zoom-h2n"></a>
-
 1. Make sure **Zoom H2n** is **off**. (**Important**: **Zoom H2n** must be **off** in order for this process to work.)
 2. Connect the **Zoom H2n** to your PC using the **USB cable**. The **Zoom H2n** will power up (even though it’s not turned on.)
 3. On the **Zoom H2n**, use the **Play wheel** to select **SD Card Reader**.

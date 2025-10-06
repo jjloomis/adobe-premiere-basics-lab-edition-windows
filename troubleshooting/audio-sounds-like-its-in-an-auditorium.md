@@ -1,12 +1,11 @@
 # Audio Sounds Like It's in an Auditorium
 
-### Bolton 510
+1. If you haven't already done so, connect your headphones to the computer.&#x20;
+2. In the **Windows search** field (bottom center of screen), search for **Sound Settings**.
+3. In the **Sound Settings** window, click **Headphones**.
+4. In the **Output settings** area, click scroll to **Audio enhancements**.&#x20;
+5. Click the **Audio enhancements** drop-down list and select **Off**.
+6. If necessary, click the **Spatial sound** drop-down list and select **Off**.&#x20;
+7. When finished, close the **Sound Settings** window.&#x20;
 
-1. In the **Windows search field** (lower-left corner), search for **Control Panel**.
-2. In the **Control Panel** window, click **Hardware and Sound**.
-3. In the **Hardware and Sound** window, click **Dell Audio** (see image below).
-4. In the **Dell Audio** window, click **Main**.
-5. Set the **Speaker Enhancement** toggle button to **Off**.
-6. When finished, click the **close** button (upper-right corner) to exit the **Dell Audio** window.&#x20;
-
-<figure><img src="../.gitbook/assets/dell-audio.png" alt=""><figcaption></figcaption></figure>
+{% file src="../.gitbook/assets/auditorium-sound-windows-11.png" %}

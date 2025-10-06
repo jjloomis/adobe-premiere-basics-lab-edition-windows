@@ -4,10 +4,6 @@
 
 Network storage area for multimedia projects.
 
-## EXE
-
-Executable file. Often used to install a program.
-
 ## MP3
 
 Compressed audio file format. Often used for online delivery of audio.

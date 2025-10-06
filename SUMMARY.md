@@ -73,6 +73,7 @@
 * [One Panel is Super Large and It's the Only Thing You See in Premiere](troubleshooting/one-panel-is-super-large-and-its-the-only-thing-you-see-in-premiere.md)
 * [Media files are in your project folder but they don't appear in the import window](troubleshooting/media-files-are-in-your-project-folder-but-they-dont-appear-in-the-import-window.md)
 * [Audio Sounds Like It's in an Auditorium](troubleshooting/audio-sounds-like-its-in-an-auditorium.md)
+* [Project is Taking a Long Time to Load](troubleshooting/project-is-taking-a-long-time-to-load.md)
 
 ## Glossary
 

@@ -12,8 +12,7 @@ Be sure to backup your project folder on a regular basis. If anything happens to
 4. Right-click **This PC** (on left.) In the fly-out menu that appears, select **Map network drive.**
 5. In the **Map Network Drive** box, leave the default **Drive** letter selected. In the **Folder** field, copy and paste the following string (be sure to copy the full string): \
    \
-   `\\ad.uwm.edu\shares\_U_LS\Courses\JAMS`\
-
+   `\\ad.uwm.edu\shares\_U_LS\Courses\JAMS`<br>
 6. Click **Finish**. Your class folder will appear in the **This PC** area as a connected drive (probably the **Z** drive.)&#x20;
 7. If necessary, [navigate](https://app.gitbook.com/@techresources/s/file-and-folder-management-windows-edition/navigating-folder-tree) to your class folder.
 

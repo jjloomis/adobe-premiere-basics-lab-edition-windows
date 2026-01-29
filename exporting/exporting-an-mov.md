@@ -2,7 +2,7 @@
 
 You’ll export an MP4 file as your finished product. You can upload this MP4 file to YouTube.
 
-## EXPORTING DECEMBER 2025
+## EXPORTING SPRING SEMESTER 2026
 
 1. **Important**: Make sure the **Timeline** panel is selected before exporting your video. To select the **Timeline** panel, click within **Timeline** panel. When selected, the **Timeline** panel will have a blue border around it.&#x20;
 2. Go to **File** on the menu bar. Select **Export**. From the fly-out menu, select **Send to Adobe Media Encoder**. **Media Encoder** will open.

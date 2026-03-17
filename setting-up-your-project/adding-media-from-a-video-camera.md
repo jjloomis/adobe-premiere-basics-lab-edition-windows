@@ -22,7 +22,7 @@ Before importing media files into Premiere, you'll need copy these files into yo
 1. [Connect your project folder SD card](connecting-your-project-folder-sd-card.md) to the PC.
 2. Connect the video camera to your PC using the USB cable. (The USB miniport on the camera is under the front flap.) **Note**: Do not remove the SD card from the camera.
 3. On the camera, set the **CAMERA/OFF/MEDIA** switch to **MEDIA**.&#x20;
-4. [Navigate to your project folder](https://techresources.gitbook.io/file-and-folder-management-windows-edition/navigating-folder-tree) in an Explorer window. Then [open a second Explorer window](https://techresources.gitbook.io/file-and-folder-management-windows-edition/opening-multiple-explorer-windows). Select **Canon** in the left pane of the Explorer window.&#x20;
+4. [Navigate to your project folder](https://techresources.gitbook.io/file-and-folder-management-windows-edition/navigating-folder-tree) in a **File Explorer** window. Then [open a second Explorer window](https://techresources.gitbook.io/file-and-folder-management-windows-edition/opening-multiple-explorer-windows). Select **Canon** in the left pane of the **File Explorer** window.&#x20;
 5. Copy the **DCIM** folder into your project folder. The **MP4** files you will import into your project file are in the 101\_XXXX subfolder.&#x20;
 6. After **DCIM** has copied into your project folder, eject the video camera.&#x20;
 7. Disconnect the camera from the PC.

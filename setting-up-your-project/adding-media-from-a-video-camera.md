@@ -1,6 +1,6 @@
 # Copying media files from a Canon video camera into your project folder
 
-Before importing media files into Premiere, you'll need copy these files into your project folder. **Note**: Be sure to follow the instructions for the correct camera (**XA10** or **XA11**.)
+Before importing media files into Premiere, you'll need copy these files into your project folder. **Note**: Be sure to follow the instructions for the correct camera (camera model is listed on side of camera).
 
 ### Canon Vixia XA10
 

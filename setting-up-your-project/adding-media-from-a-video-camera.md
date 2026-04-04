@@ -29,6 +29,8 @@ Before importing media files into Premiere, you'll need copy these files into yo
 
 ### Canon Vixia XA60
 
+**Note:** The **Canon Vixia XA60** will not appear on the left panel of a **File Explorer** window when it is properly connected to a computer. You will need to select **This PC** (in the **File Explorer** panel). The **Canon XA60 A** option will appear in the **This PC** area.
+
 1. [Connect your project folder SD card](connecting-your-project-folder-sd-card.md) to the PC.
 2. Connect the video camera to your PC using the **USB-C cable**. (The **USB-C** port on the camera is under the front flap.) **Note**: Do not remove the **SD card** from the camera.
 3. On the camera, set the **CAMERA/OFF/MEDIA** switch to **MEDIA**.&#x20;

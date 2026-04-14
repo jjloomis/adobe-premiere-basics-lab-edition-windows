@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Copying media files from a still camera SD card into your project folder
 
 1. Connect to your class folder using a JAMS Lab or CCL Mac.

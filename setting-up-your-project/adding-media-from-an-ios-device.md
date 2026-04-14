@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Copying media files from an iPad/ iPhone into your project folder
 
 1. Using the iPad/ iPhone USB cable, connect your iPad/ iPhone to your PC.

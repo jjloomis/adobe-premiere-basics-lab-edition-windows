@@ -20,7 +20,7 @@ Before importing media files into Premiere, you'll need copy these files into yo
 3. Insert **Canon SD card** into the **USB-C SD card reader**. **Note:** The **USB-C SD card reader** will be in **Canon Vixia XA60 camera bag**.
 4. Connect **USB-C SD card reader** to a **USB-C port** on the **PC**.
 5. [Navigate to your project folder](https://techresources.gitbook.io/file-and-folder-management-windows-edition/navigating-folder-tree) in an Explorer window. Then [open a second Explorer window](https://techresources.gitbook.io/file-and-folder-management-windows-edition/opening-multiple-explorer-windows). Select **Canon** in the left pane of the Explorer window.
-6. Copy the **DCIM** folder into your project folder. The **MP4** files you will import into your project file are in the 101\_XXXX subfolder(s).
+6. Copy the **DCIM** folder into your project folder. The **MP4** files you will import into your project file are in the **101\_XXXX** subfolder(s).
 7. After the **DCIM** folder has copied into your project folder, eject the **Canon** **SD card**.&#x20;
 8. Remove the **Canon** **SD card** from the **USB-C SD card reader**. Put the **Canon** **SD card** back in the the **Canon Vixia XA60** camera (**Slot A**). Put the **USB-C SD card reader** back in the camera bag.
 

@@ -4,7 +4,7 @@ Before importing media files into Premiere, you'll need copy these files into yo
 
 ### Canon Vixia XA11, XA15, XA30
 
-1. [Connect your project folder SD card](connecting-your-project-folder-sd-card.md) to the PC.
+1. [Connect your project folder SD card](connecting-your-project-folder-sd-card.md) (labeled **PROJ**) to a **USB port** on the **PC**.
 2. Connect a camera battery to the camera.
 3. Connect the video camera to your **PC** using the **USB cable**. (The **USB miniport** on the camera is under the front flap.) **Note**: Do not remove the **SD** **card** from the camera.
 4. On the camera, set the **CAMERA/OFF/MEDIA** switch to **MEDIA**.&#x20;

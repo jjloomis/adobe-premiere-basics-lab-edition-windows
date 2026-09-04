@@ -2,21 +2,6 @@
 
 Before importing media files into Premiere, you'll need copy these files into your project folder. **Note**: Be sure to follow the instructions for the correct camera (camera model is listed on side of camera).
 
-### Canon Vixia XA10
-
-1. [Connect your project folder SD card](connecting-your-project-folder-sd-card.md) to the PC.&#x20;
-2. Connect the camera to your PC using the USB cable. (The USB miniport on the camera is under the hand flap.)
-3. Turn the camera on.
-4. On camera, open the side panel.
-5. Press **Camera to Play** button.
-6. On the camera's touch screen, press **Built-in Mem**. (Do not disconnect or turn off the camera without properly ejecting it from your PC.)
-7. On the PC, [Navigate to your project folder](https://techresources.gitbook.io/file-and-folder-management-windows-edition/navigating-folder-tree) in an Explorer window. Then [open a second Explorer window](https://techresources.gitbook.io/file-and-folder-management-windows-edition/opening-multiple-explorer-windows). Select **Canon** in the left pane of the Explorer window.&#x20;
-8. Copy the **AVCHD** folder into your project folder.&#x20;
-9. After **AVCHD** has copied into your project folder, eject the video camera.&#x20;
-10. Disconnect the camera from your PC.
-11. In your project folder, rename **AVCHD**. Follow [JAMS file and folder naming conventions](https://techresources.gitbook.io/file-and-folder-management-windows/file-and-folder-naming-conventions).&#x20;
-12. [Rename your MTS files](previewing-and-renaming-clips-in-finder.md).
-
 ### Canon Vixia XA11, XA15, XA30
 
 1. [Connect your project folder SD card](connecting-your-project-folder-sd-card.md) to the PC.
@@ -28,18 +13,15 @@ Before importing media files into Premiere, you'll need copy these files into yo
 7. After **DCIM** has copied into your project folder, eject the video camera.&#x20;
 8. Disconnect the camera from the PC.
 
-### Canon Vixia XA60
+#### Canon Vixia XA60 <a href="#canon-vixia-xa60" id="canon-vixia-xa60"></a>
 
-**Note:** The **Canon Vixia XA60** will not appear on the left panel of a **File Explorer** window when it is properly connected to a computer. You will need to select **This PC** (in the **File Explorer** panel). The **Canon XA60 A** option will appear in the **This PC** area.
-
-1. [Connect your project folder SD card](connecting-your-project-folder-sd-card.md) to the PC.
-2. Connect a camera battery to the camera.
-3. Connect the video camera to your PC using the **USB-C cable**. (The **USB-C** port on the camera is under the front flap.) **Note**: Do not remove the **SD card** from the camera.
-4. On the camera, set the **CAMERA/OFF/MEDIA** switch to **MEDIA**.&#x20;
-5. [Navigate to your project folder](https://techresources.gitbook.io/file-and-folder-management-windows-edition/navigating-folder-tree) in a **File Explorer** window. Then [open a second Explorer window](https://techresources.gitbook.io/file-and-folder-management-windows-edition/opening-multiple-explorer-windows). Select **This PC** in the left pane of the **File Explorer** window.
-6. Double-click **Canon XA60 A**.&#x20;
-7. Double-click **Removable storage**.
-8. Copy the **DCIM** folder into your project folder. The **MP4** files you will import into your project file are in the **101\_XXXX** subfolder(s).&#x20;
-9. After **DCIM** has copied into your project folder, disconnect the camera from the PC.
+1. [Connect your project folder SD card](https://techresources.gitbook.io/adobe-premiere-basics-windows-edition/setting-up-your-project/connecting-your-project-folder-sd-card) (labeled **PROJ**) to a **USB port** on the **PC**.
+2. Remove the **Canon SD card** (labeled **CAM**) from **Canon Vixia XA60 SD card slot**.
+3. Insert **Canon SD card** into the **USB-C SD card reader**. **Note:** The **USB-C SD card reader** will be in **Canon Vixia XA60 camera bag**.
+4. Connect **USB-C SD card reader** to a **USB-C port** on the **PC**.
+5. [Navigate to your project folder](https://techresources.gitbook.io/file-and-folder-management-windows-edition/navigating-folder-tree) in an Explorer window. Then [open a second Explorer window](https://techresources.gitbook.io/file-and-folder-management-windows-edition/opening-multiple-explorer-windows). Select **Canon** in the left pane of the Explorer window.
+6. Copy the **DCIM** folder into your project folder. The **MP4** files you will import into your project file are in the 101\_XXXX subfolder(s).
+7. After the **DCIM** folder has copied into your project folder, eject the **Canon** **SD card**.&#x20;
+8. Remove the **Canon** **SD card** from the **USB-C SD card reader**. Put the **Canon** **SD card** back in the the **Canon Vixia XA60** camera (**Slot A**). Put the **USB-C SD card reader** back in the camera bag.
 
 ![Copying media files from Canon Vixia XA10 video camera to project folder.](../.gitbook/assets/copying-media-files-canon-camera.PNG)
